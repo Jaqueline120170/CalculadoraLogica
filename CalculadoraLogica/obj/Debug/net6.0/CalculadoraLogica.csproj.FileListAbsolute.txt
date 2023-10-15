@@ -1,0 +1,14 @@
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.AssemblyInfoInputs.cache
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.AssemblyInfo.cs
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.csproj.CoreCompileInputs.cache
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.exe
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.deps.json
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.runtimeconfig.json
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.dll
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\bin\Debug\net6.0\CalculadoraLogica.pdb
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.dll
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\refint\CalculadoraLogica.dll
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.pdb
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\CalculadoraLogica.genruntimeconfig.cache
+C:\Jaqueline\Programacion\CalculadoraLogica\CalculadoraLogica\obj\Debug\net6.0\ref\CalculadoraLogica.dll
